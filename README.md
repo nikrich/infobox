@@ -4,10 +4,10 @@ Tile box with hover description
 
 ## Getting Started
 
-Download the [production version][min] or the [development version][max].
+Download the [development css][min] and the [development js][max].
 
-[min]: https://raw.githubusercontent.com/nikrich/jquery-portfoliobox/master/dist/jquery.portfoliobox.min.js
-[max]: https://raw.githubusercontent.com/nikrich/jquery-portfoliobox/master/dist/jquery.portfoliobox.js
+[min]: https://github.com/nikrich/infobox/blob/master/src/portfoliobox.css
+[max]: https://github.com/nikrich/infobox/blob/master/src/portfoliobox.js
 
 In your web page:
 
