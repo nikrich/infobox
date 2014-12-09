@@ -1,0 +1,28 @@
+{
+  "name": "portfoliobox",
+  "title": "Tile based image box with hover descriptions",
+  "description": "Tile box with hover description",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Jannik Richter",
+    "url": "https://github.com/nikrich"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~*"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
